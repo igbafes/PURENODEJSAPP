@@ -1,0 +1,74 @@
+[
+  {
+    "organization":"node ninja",
+    "createdAt":"2020-08-12T19:04:55.455Z",
+    "updatedAt":"2020-08-12T19:04:55.455Z",
+    "products":["developers","pizza"],
+    "marketValue":"90%",
+    "address":"anthony",
+    "ceo":"OG",
+    "country":"Taiwan",
+    "id":1,
+    "noOfEmployees":2,
+    "employees":["james bond","jackie chan"]
+  },
+    {
+      "id":4,
+      "Name":"Sammy",
+      "skills":"Html,css,Reactjs,Nodejs and Exporess"},
+      {"id":5,
+      "Name":"Sammy",
+      "skills":"Html,css,Reactjs,Nodejs and "
+    },
+      {"organization":"node ninja",
+      "createdAt":"2020-08-12T19:04:55.455Z",
+      "updatedAt":"2020-08-12T19:04:55.455Z",
+      "products":["developers","pizza"],
+      "marketValue":"90%",
+      "address":"anthony",
+      "ceo":"OG",
+      "country":"Taiwan",
+      "id":6,
+      "noOfEmployees":2,
+      "employees":["james bond","jackie chan"]
+    },
+      {
+        
+       "organization":"node ninja",
+      "createdAt":"2020-08-12T19:04:55.455Z",
+      "updatedAt":"2020-08-12T19:04:55.455Z",
+      "products":["developers","pizza"],
+      "marketValue":"90%",
+      "address":"anthony",
+      "ceo":"OG",
+      "country":"Taiwan",
+      "id":7,
+      "noOfEmployees":2,
+      "employees":["james bond","jackie chan"]
+      },
+      {
+        "organization":"node ninja",
+        "createdAt":"2020-08-12T19:04:55.455Z",
+        "updatedAt":"2020-08-12T19:04:55.455Z",
+        "products":["developers","pizza"],
+        "marketValue":"90%",
+        "address":"anthony",
+        "ceo":"OG",
+        "country":"Taiwan",
+        "id":8,
+        "noOfEmployees":2,
+        "employees":["james bond","jackie chan"]
+        },
+        {
+          "id":9,
+          "Amos":"samuel igbafe",
+          "Occupation":"Software Developer",
+          "State of origin":"Edo"
+        },
+          {
+            "id":10,
+            "Amos":"samuel igbafe",
+            "Occupation":"Software Developer",
+            "State of origin":"Edo"
+            }
+          ]
